@@ -1,0 +1,15 @@
+{
+  "name": "eslint__prettier",
+  "version": "1.0.0",
+  "description": "eslint, prettier config",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Dmytro Tartakovskyi <d.tartakovskiy@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^6.15.0",
+    "prettier": "2.1.2"
+  }
+}
